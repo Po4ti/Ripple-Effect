@@ -1,0 +1,39 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "ImpactEffect",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.11.1.129",
+  },
+  "resources": [
+    {"id":{"name":"fnt_debug","path":"fonts/fnt_debug/fnt_debug.yy",},},
+    {"id":{"name":"shdr_ripple","path":"shaders/shdr_ripple/shdr_ripple.yy",},},
+    {"id":{"name":"surf_ripple","path":"objects/surf_ripple/surf_ripple.yy",},},
+    {"id":{"name":"shdr_bg","path":"shaders/shdr_bg/shdr_bg.yy",},},
+    {"id":{"name":"obj_cntl","path":"objects/obj_cntl/obj_cntl.yy",},},
+    {"id":{"name":"obj_ripple_cntl","path":"objects/obj_ripple_cntl/obj_ripple_cntl.yy",},},
+    {"id":{"name":"obj_draw_background","path":"objects/obj_draw_background/obj_draw_background.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

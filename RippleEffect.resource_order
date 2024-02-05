@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"fnt_debug","order":18,"path":"fonts/fnt_debug/fnt_debug.yy",},
+    {"name":"shdr_ripple","order":16,"path":"shaders/shdr_ripple/shdr_ripple.yy",},
+    {"name":"surf_ripple","order":14,"path":"objects/surf_ripple/surf_ripple.yy",},
+    {"name":"shdr_bg","order":11,"path":"shaders/shdr_bg/shdr_bg.yy",},
+    {"name":"obj_cntl","order":15,"path":"objects/obj_cntl/obj_cntl.yy",},
+    {"name":"obj_ripple_cntl","order":17,"path":"objects/obj_ripple_cntl/obj_ripple_cntl.yy",},
+    {"name":"obj_draw_background","order":12,"path":"objects/obj_draw_background/obj_draw_background.yy",},
+  ],
+}
