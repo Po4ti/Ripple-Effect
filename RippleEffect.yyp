@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.7",
-  "name": "ImpactEffect",
+  "name": "RippleEffect",
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
@@ -11,7 +11,8 @@
   },
   "defaultScriptType": 1,
   "Folders": [
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Main Content","folderPath":"folders/Main Content.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Project Specific","folderPath":"folders/Project Specific.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
